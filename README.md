@@ -19,7 +19,7 @@
 ⋆ ⍣ ✰ ✯ ✮ ✭ ✬ ✫ ❂ ⍟ ✪ ✩ ⌑ ✧ ✦ ☆ ★ ☆ ✦ ✧ ⌑ ✩ ✪ ✫ ✬ ✭ ✯ ✰ ⍣ ⋆ 
 </p>
 
-## <h3 align="left">My gitHub Stats 💻🖱️📊</h3>
+## My gitHub Stats 💻🖱️📊
 
 <p align="left">
   <a href="https://github.com/biggib01"><img src="https://github-readme-stats.vercel.app/api?username=biggib01&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
@@ -29,7 +29,7 @@
     <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biggib01&layout=compact&title_color=007bff&text_color=e7e7ee7&icon_color=007bff" />
 </p>
 
-### Tools that I have used 🧰
+## Tools that I have used 🧰
 
 |  |  |
 |-------|------|
@@ -44,24 +44,27 @@
     <img align="centre" src="https://github-profile-trophy.vercel.app/?username=biggib01&column=4&&theme=dark_lover&no-frame=true&no-bg=true&margin-w=7&margin-h=7" />
 </p>
 
-## <h3 align="left">My "drawing" 🖌️⭐</h3>
+## My "drawing" 🖌️
 <p align="left">
   
-- <a href="https://www.pixiv.net/en/artworks/112209985">
+<a href="https://www.pixiv.net/en/artworks/112209985">
       <img src="https://github.com/biggib01/biggib01.github.io/blob/9fcd7dabfdc631cddbc25b5d1325febb666dfc34/asset/%E0%B8%A2%E0%B8%94%E0%B8%A2.png" width="25%" align="middle"/>
   </a>
   
-- <a href="https://www.pixiv.net/en/artworks/99184476">
+<a href="https://www.pixiv.net/en/artworks/99184476">
       <img src="https://github.com/biggib01/biggib01.github.io/blob/cb933b13df3219b498573a29e7fff0346769e74f/asset/99184476_p0.jpg" width="25%" align="middle" />
   </a>
   
 </p>
+
+## Song on spotify that I currently like 💚
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eodv2wh263d4r7obbbqhaq2kmu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=false&bar_color=53b14f&bar_color_cover=false)]()
   
 <br><br>
 
 <div align="left">
 
-### My Alternate account
+## My Alternate account 🦝
     
 [![alt_acc](https://img.shields.io/badge/CVXBOT-37393d.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nonper)
 
@@ -76,6 +79,7 @@
 [![](https://img.shields.io/badge/nonoper-353c51.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/nop3_r)
 [![](https://img.shields.io/badge/nonoper-2c97ff.svg?style=for-the-badge&logo=pixiv&logoColor=white)](https://www.pixiv.net/en/users/19720254)
 [![](https://img.shields.io/badge/nonoper-3cd534.svg?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/nonoper)
+[![](https://img.shields.io/badge/imma__biggy-3cd534.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://www.fiverr.com/nonoper)
 
 </div>
 
