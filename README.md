@@ -59,6 +59,18 @@
   
 <br><br>
 
+<div align="left">
+
+### My Alternate account
+    
+[![alt_acc](https://img.shields.io/badge/CVXBOT-37393d.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nonper)
+
+</div>
+
+<br><br>
+
+<div>
+    
 <div align="center">
     
 [![](https://img.shields.io/badge/nonoper-353c51.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/nop3_r)
@@ -67,5 +79,10 @@
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=biggib01&style=flat-square)
+<div align="right">
 
+![](https://komarev.com/ghpvc/?username=biggib01&style=flat-square)
+    
+</div>
+
+</div>
