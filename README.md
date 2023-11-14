@@ -79,7 +79,7 @@
 [![](https://img.shields.io/badge/nonoper-353c51.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/nop3_r)
 [![](https://img.shields.io/badge/nonoper-2c97ff.svg?style=for-the-badge&logo=pixiv&logoColor=white)](https://www.pixiv.net/en/users/19720254)
 [![](https://img.shields.io/badge/nonoper-3cd534.svg?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/nonoper)
-[![](https://img.shields.io/badge/imma__biggy-3cd534.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://www.fiverr.com/nonoper)
+[![](https://img.shields.io/badge/imma__biggy-3cd534.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31eodv2wh263d4r7obbbqhaq2kmu)
 
 </div>
 
