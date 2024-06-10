@@ -57,7 +57,7 @@
   
 </p>
 
-## Song on spotify that I currently like 💚
+## Song on spotify that I currently listen 🎧💚
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eodv2wh263d4r7obbbqhaq2kmu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=false&bar_color=53b14f&bar_color_cover=false)]()
   
 <br><br>
