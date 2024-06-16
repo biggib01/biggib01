@@ -5,7 +5,7 @@
 </p>
 
 <pre>
-    <h1 align="left">Hi, I'm <a href="https://www.edisonlee55.com">Supachok Jrirarojkul</a>(Big)!</h1> 
+    <h1 align="left">Hi, I'm Supachok Jrirarojkul</a>(Big)!</h1> 
     Welcome to my Github profile !
 
     Let me introduce myself,
